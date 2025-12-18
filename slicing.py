@@ -1,0 +1,5 @@
+numbers = list(range(0,101))
+print(numbers[:6])
+print(numbers[0:6])
+print(numbers[3:6])
+print(numbers[3:16:9])

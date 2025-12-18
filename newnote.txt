@@ -1,0 +1,7 @@
+my goals
+==========
+master python
+master HTML
+master CSS
+master database
+master Django
